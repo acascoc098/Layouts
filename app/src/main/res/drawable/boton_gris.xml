@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="2dp" android:left="2dp">
+        <shape>
+            <solid android:color="#808080" /> <!-- Color gris (#808080) -->
+            <corners android:radius="8dp" /> <!-- Radio de las esquinas -->
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="#E0E0E0" /> <!-- Color gris más claro (#E0E0E0) -->
+            <corners android:radius="8dp" /> <!-- Radio de las esquinas -->
+        </shape>
+    </item>
+</layer-list>
+

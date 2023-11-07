@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Layouts" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Layouts" parent="Base.Theme.Layouts" />
+
+    <style name="GrayButton">
+        <item name="android:background">@drawable/boton_gris</item>
+    </style>
+</resources>
